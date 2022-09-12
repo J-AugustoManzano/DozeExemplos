@@ -1,0 +1,4 @@
+10 REM ALG01
+20 PRINT "Bom dia"
+30 END
+
