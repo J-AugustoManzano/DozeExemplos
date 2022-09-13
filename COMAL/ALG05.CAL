@@ -1,0 +1,6 @@
+10 // ALG05
+20 INPUT x#
+30 INPUT y#
+40 z# := x# ^ 2 + y# ^ 2
+50 PRINT z#
+60 END

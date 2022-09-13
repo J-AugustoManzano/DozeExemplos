@@ -1,0 +1,9 @@
+10 // ALG07
+20 INPUT x#
+30 INPUT y#
+40 IF (x# > 100) THEN
+50   z# := x# + y#
+60   PRINT z#
+70 ENDIF
+80 END
+

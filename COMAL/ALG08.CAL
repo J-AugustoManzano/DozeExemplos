@@ -1,0 +1,10 @@
+10 // ALG08
+20 INPUT x#
+30 INPUT y#
+40 IF (x# <= y#) THEN
+50   PRINT x#
+60 ELSE
+70   PRINT y#
+80 ENDIF
+90 END
+

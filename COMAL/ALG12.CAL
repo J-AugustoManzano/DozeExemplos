@@ -1,0 +1,10 @@
+10 // ALG12
+20 x# := 1
+30 i# := 1 
+40 WHILE (i# <= 10) DO 
+50   PRINT x#
+60   x# := x# * 2
+70   i# := i# + 1
+80 ENDWHILE
+90 END
+

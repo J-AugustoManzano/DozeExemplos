@@ -1,0 +1,9 @@
+10 // ALG09
+20 INPUT x#
+30 IF (x# >= 10) THEN
+40   y# := x# ^ 2
+50 ELSE
+60   y# := x# ^ 3
+70 ENDIF
+80 PRINT y#
+90 END

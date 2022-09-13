@@ -1,0 +1,7 @@
+10 // ALG04
+20 INPUT x#
+30 INPUT y#
+40 z# := x# + y#
+50 PRINT z#
+60 END
+

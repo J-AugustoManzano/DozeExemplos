@@ -1,0 +1,7 @@
+10 // ALG06
+20 INPUT x#
+30 IF (x# > 100) THEN
+40   PRINT x#
+50 ENDIF
+60 END
+
