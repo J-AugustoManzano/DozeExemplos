@@ -1,0 +1,6 @@
+# ALG02
+function main()
+  X = parse(Int, readline())
+  println(X)
+end
+main()

@@ -1,0 +1,11 @@
+# ALG08
+function main()
+  X = parse(Int, readline())
+  Y = parse(Int, readline())
+  if X <= Y
+    println(X)
+  else
+    println(Y)
+  end
+end
+main()

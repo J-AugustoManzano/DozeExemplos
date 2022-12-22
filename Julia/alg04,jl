@@ -1,0 +1,8 @@
+# ALG04
+function main()
+  X = parse(Int, readline())
+  Y = parse(Int, readline())
+  Z = X + Y
+  println(Z)
+end
+main()

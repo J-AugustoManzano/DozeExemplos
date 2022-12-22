@@ -1,0 +1,8 @@
+# ALG05
+function main()
+  X = parse(Int, readline())
+  Y = parse(Int, readline())
+  Z = X * X + Y * Y
+  println(Z)
+end
+main()

@@ -1,0 +1,11 @@
+# ALG09
+function main()
+  X = parse(Int, readline())
+  if X >= 10
+    Y = X * X
+  else
+    Y = X * X * X
+  end
+  println(Y)
+end
+main()

@@ -1,0 +1,10 @@
+# ALG07
+function main()
+  X = parse(Int, readline())
+  Y = parse(Int, readline())
+  if X > 100
+    Z = X + Y
+    println(Z)
+  end
+end
+main()

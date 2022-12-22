@@ -1,0 +1,11 @@
+# ALG12
+function main()
+  X = 1
+  I = 1
+  while I <= 10
+    println(X)
+    X *= 2
+    I += 1
+  end
+end
+main()

@@ -1,0 +1,5 @@
+# ALG01
+function main()
+  println("Bom dia")
+end
+main()

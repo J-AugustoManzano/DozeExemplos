@@ -1,0 +1,8 @@
+# ALG06
+function main()
+  X = parse(Int, readline())
+  if X > 100
+    println(X)
+  end
+end
+main()

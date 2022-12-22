@@ -1,0 +1,15 @@
+# ALG10
+function main()
+  X = parse(Int, readline())
+  Y = parse(Int, readline())
+  if X > Y
+    N1 = Y
+    N2 = X
+  else
+    N1 = X
+    N2 = Y
+  end
+  println(N1)
+  println(N2)
+end
+main()
