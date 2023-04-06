@@ -1,0 +1,13 @@
+Programa ALG8
+Var
+  X : Inteiro
+  Y : Inteiro
+Início
+  Leia X
+  Leia Y
+  Se (X <= Y) Então
+    Escreva X
+  Senão
+    Escreva Y
+  Fim_se
+Fim
