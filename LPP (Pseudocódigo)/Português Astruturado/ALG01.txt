@@ -1,4 +1,0 @@
-Programa ALG1
-Início
-  Escreva "Bom dia"
-Fim
