@@ -1,0 +1,13 @@
+Programa ALG9
+Var
+  X : Inteiro
+  Y : Inteiro
+Início
+  Leia X
+  Se (X >= 10) Então
+    Y ← X ↑ 2
+  Senão
+    Y ← X ↑ 3
+  Fim_se
+  Escreva Y
+Fim

@@ -1,0 +1,19 @@
+Programa ALG10
+Var
+  X  : Inteiro
+  Y  : Inteiro
+  N1 : Inteiro
+  N2 : Inteiro
+Início
+  Leia X
+  Leia Y
+  Se (X > Y) Então
+    N1 ← Y
+    N2 ← X
+  Senão
+    N1 ← X
+    N2 ← Y
+  Fim_se
+  Escreva N1
+  Escreva N2
+Fim

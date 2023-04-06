@@ -1,0 +1,9 @@
+Programa ALG3
+Var
+  X : Inteiro
+  Y : Inteiro
+Início
+  Leia X
+  Y ← X ↑ 2
+  Escreva Y
+Fim

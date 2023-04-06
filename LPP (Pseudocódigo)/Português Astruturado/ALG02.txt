@@ -1,0 +1,7 @@
+Programa ALG2
+Var
+  X : Inteiro
+Início
+  Leia X
+  Escreva X
+Fim

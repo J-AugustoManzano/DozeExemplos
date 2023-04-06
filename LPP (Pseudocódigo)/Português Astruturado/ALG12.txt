@@ -1,0 +1,13 @@
+Programa ALG12
+Var
+  X : Inteiro
+  I : Inteiro
+Início
+  X ← 1
+  I ← 1
+  Enquanto (I <= 10) Faça
+    Escreva X
+    X ← X * 2
+    I ← I + 1
+  Fim_enquanto
+Fim
