@@ -11,3 +11,7 @@ Como elemento ilustrativo os 12 algoritmos citados nos exemplos são apresentado
 Além do material básico exposto nos arquivos PDF encontra-se uma coleção de diretórios com os referidos algoritmos codificados em diversas linguagens de programação além das indicadas no parágrafo anterior são definidos exemplos nas linguagens de programação: Dart, FORTRAN-77, FORTRAN-90, Go, Julia, Kotlin, MODULA-2, Perl, REXX e Scala.
 
 Este material, apesar da indicação de uso exclusivo dos alunos do Professor Augusto Manzano, poderá ser usado em aulas e treinamento desde que as credenciais de autoria sejam devidamente mantidas.
+
+O conjunto de elementos deste material deverá ser usado para demonstrar que o que se desenha e se define em pseudocódigo pode facilmente ser implementado em diversas linguagens de programação formais.
+
+O objetivo, deste material, é firmar na mente do estudante que a lógica de programação existe independentemente de uma linguagem formal. Que a linguagem de programação é apenas uma ferramenta para exprimir o que a mente do programador visualizou. Que não se deve investir a aprendizagem da lógica sobre certas linguagens de programação, uma vez que por ser uma linguagem uma ferramenta está poderá de ser a qualquer momento e por qualquer motivo desinteressante para o mercado, bastando que para isso surja uma nova linguagem que caia em bom grado das pessoas. Invista seu tempo e recurso no aperfeiçoamento do raciocínio lógico e use as linguagens como ferramentas de expressão do que se deseja realizar.
