@@ -2,7 +2,7 @@
 
 O material aqui exposto refere-se a elementos de aprendizagem e reforço sobre lógica de programação direcionado a estudantes iniciantes por abordar três elementos iniciais e importantes: programação sequencial, programação com decisão e programação com laço condicional (pré-teste de fluxo verdadeiro). 
 
-Este reforço é fundamentado nos capítulos 3, 4 e 5 do livro **[Algoritmos: Lógica para Desenvolvimento de Programação de Computadores](https://www.editoraerica.com.br/algoritmos-logica-para-desenvolvimento-de-programacao-de-computadores/p)** publicado junto a **[Editora Érica](https://www.editoraerica.com.br/)** dos autores José Augusto N. G. Manzano e Jayr Figueiredo de Oliveira, servindo como resumo geral do que nesses capítulos são abordados.
+Este reforço é fundamentado nos capítulos 3, 4 e 5 do livro **[Algoritmos: Lógica para Desenvolvimento de Programação de Computadores](https://www.editoraerica.com.br/algoritmos-logica-para-desenvolvimento-de-programacao-de-computadores/p)** publicado junto a **[Editora Érica](https://www.editoraerica.com.br/)** dos autores [José Augusto N. G. Manzano](https://www.linkedin.com/in/augustomanzano/) e [Jayr Figueiredo de Oliveira](https://www.linkedin.com/in/jayr-figueiredo-oliveira-11536920/), servindo como resumo geral do que nesses capítulos são abordados.
 
 A estrutura apresentada pode ser usada por professores e estudantes que atuam sobre a metodologia "old-school", onde a aprendizagem é focada no desenvolvimento do raciocínio lógico respaldado com o uso de diagramas de blocos (seguindo como referência a norma ISO 5807) e codificação com pseudocódigo (português estruturado), sem ênfase no uso inicial de linguagens de programação. 
 
