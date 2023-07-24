@@ -1,4 +1,4 @@
-# 12 Algoritmos: Lógica de Programação Aplicada em 35 Linguagens
+# 12 Algoritmos: Lógica de Programação em 35 Linguagens
 
 O material aqui exposto refere-se a elementos de aprendizagem e reforço sobre lógica de programação direcionado a estudantes iniciantes por abordar três elementos iniciais e importantes: programação sequencial, programação com decisão e programação com laço condicional (pré-teste de fluxo verdadeiro). 
 
