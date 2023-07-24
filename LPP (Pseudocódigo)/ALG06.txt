@@ -1,9 +1,0 @@
-Programa ALG6
-Var
-  X : Inteiro
-Início
-  Leia X
-  Se (X > 100) Então
-    Escreva X
-  Fim_se
-Fim
