@@ -1,4 +1,4 @@
-# 12 Algoritmos: Lógica de Programação em 35 Linguagens
+# 12 Algoritmos: Lógica de Programação
 
 O material aqui exposto refere-se a elementos de aprendizagem e reforço sobre lógica de programação direcionado a estudantes iniciantes por abordar três elementos iniciais e importantes: programação sequencial, programação com decisão e programação com laço condicional (pré-teste de fluxo verdadeiro). 
 
@@ -14,6 +14,6 @@ Além do material básico exposto nos arquivos PDF encontra-se uma coleção de 
 
 Este material, apesar da indicação de uso exclusivo dos alunos do Professor Augusto Manzano, poderá ser usado em aulas e treinamento desde que as credenciais de autoria sejam devidamente mantidas.
 
-O conjunto de elementos deste material deverá ser usado para demonstrar que o que se desenha e se define em pseudocódigo pode facilmente ser implementado em diversas linguagens de programação formais.
+O conjunto de elementos deste material deverá ser usado para demonstrar que o que se desenha e se define em pseudocódigo pode facilmente ser implementado em diversas linguagens de programação formais, tanto que os exemplos indicados estão codificados em 35 linguagens de programação.
 
 O objetivo, deste material, é firmar na mente do estudante que a lógica de programação existe independentemente de uma linguagem formal. Que a linguagem de programação é apenas uma ferramenta para exprimir o que a mente do programador visualizou. Que não se deve investir a aprendizagem da lógica sobre certas linguagens de programação, uma vez que por ser uma linguagem uma ferramenta está poderá de ser a qualquer momento e por qualquer motivo desinteressante para o mercado, bastando que para isso surja uma nova linguagem que caia em bom grado das pessoas. Invista seu tempo e recurso no aperfeiçoamento do raciocínio lógico e use as linguagens como ferramentas de expressão do que se deseja realizar.
