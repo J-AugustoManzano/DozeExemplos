@@ -10,7 +10,7 @@ A metodologia "old-school" se preocupa em preparar o estudante com base na evolu
 
 Como elemento ilustrativo os 12 algoritmos citados nos exemplos são apresentados codificados em 35 linguagens de programação. O arquivo "APOIO_01.pdf" é composto por 12 algoritmos gráficos que representam a linha de raciocínio usada para a solução de alguns problemas computacionais simples. Já o arquivo "APOIO_02.pdf" possui os algoritmos representados de forma escrita em pseudocódigo além da representação desses nas linguagens de programação: Pascal, Structured BASIC, C, C++, D, Ada, Lua, Python, Classic BASIC e COMAL.
 
-Além do material básico exposto nos arquivos PDF encontra-se uma coleção de diretórios com os referidos algoritmos codificados em diversas linguagens de programação além das indicadas no parágrafo anterior são definidos exemplos nas linguagens de programação: Dart, FORTRAN-77, FORTRAN-90, Go, Julia, Kotlin, MODULA-2, Perl, Pike, REXX e Scala.
+Além do material básico exposto nos arquivos PDF encontra-se uma coleção de diretórios com os referidos algoritmos codificados em diversas linguagens de programação além das indicadas no parágrafo anterior são definidos exemplos nas linguagens de programação: AWK, C#, COBOL, Dart, FORTRAN-77, FORTRAN-90, Go, Julia, Kotlin, MODULA-2, Perl, Pike, REXX e Scala.
 
 Este material, apesar da indicação de uso exclusivo dos alunos do Professor Augusto Manzano, poderá ser usado em aulas e treinamento desde que as credenciais de autoria sejam devidamente mantidas.
 
