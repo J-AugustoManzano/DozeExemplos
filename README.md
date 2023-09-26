@@ -12,7 +12,7 @@ Como elemento ilustrativo os 12 algoritmos citados nos exemplos são apresentado
 
 Além do material básico exposto nos arquivos PDF encontra-se uma coleção de diretórios com os referidos algoritmos codificados em diversas linguagens de programação além das indicadas no parágrafo anterior são definidos exemplos nas linguagens de programação: AWK, C#, COBOL, Dart, FORTRAN-77, FORTRAN-95, Go, Groovy, Java, JavaScript, Julia, Kotlin, Modula-2, PHP, Perl, Pike, REXX, Raku, Ruby, Rust, Scala, Swift, Tcl, TypeScript e Visual Basic.Net.
 
-Este material, apesar da indicação de uso exclusivo dos alunos do Professor Augusto Manzano, poderá ser usado em aulas e treinamento desde que mantidas as condições CC BY-NC-SA do Creative Commons.
+Este material, apesar da indicação de uso exclusivo dos alunos do Professor Augusto Manzano, poderá ser usado em aulas e treinamento desde que mantidas as condições CC BY-NC-SA do Creative Commons (Creative Commons Attribution-NonCommercial 4.0 International Public License).
 
 O conjunto de elementos deste material deverá ser usado para demonstrar que o que se desenha e se define em pseudocódigo pode facilmente ser implementado em diversas linguagens de programação formais, tanto que os exemplos indicados estão codificados em 35 linguagens de programação.
 
